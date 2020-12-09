@@ -1,4 +1,4 @@
 # braintumourclassification
 Brain Tumour Classification
 
-Read Research Paper
+Read Research Paper, i.e Journal Synopsis.docx
